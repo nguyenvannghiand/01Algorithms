@@ -1,4 +1,4 @@
-public class Main {
+public class Algorithms {
 
     private static void printArray(int position, int[] a) {
         System.out.printf("%d: ", position);
