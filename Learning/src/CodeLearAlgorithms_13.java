@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.Stack;
 
-public class CodeLearAlgorithms_11 {
+public class CodeLearAlgorithms_13 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
